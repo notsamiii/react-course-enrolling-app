@@ -15,7 +15,7 @@ Redux: Managing state for a smooth, predictable flow of data.
 React Router: Enabling navigation between pages.
 CSS: Styling for an attractive and user-friendly interface.
 Getting Started
-Clone the repository: git clone https://github.com/your-username/course-marketplace.git
+
 Install dependencies: npm install
 Start the development server: npm start
 Open http://localhost:3000 to view it in the browser.
